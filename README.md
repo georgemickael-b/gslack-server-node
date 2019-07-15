@@ -1,5 +1,5 @@
 * Update .env File with 
-MONGO_URI
+MONGO_URI and
 FRONT_END_URL ( for cors)
 
 * npm install
